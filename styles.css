@@ -1,10 +1,7 @@
-.card-header1{
-	color:white;
-	background-color:red;
-}
 
 
-.card-body1{
+
+card-body{
       margin: 0;
       padding: 0;
       display: flex;
@@ -14,7 +11,8 @@
 	   color:white;
     }
     
-     .card img {
+ .img {
+	 
    height:665;
     border-style: none;
     max-width: 100%;
